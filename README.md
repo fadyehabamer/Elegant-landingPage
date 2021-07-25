@@ -1,5 +1,5 @@
 # Elegant landingPage
-> Elegant Portofolio landing page with some svg animations
+> Elegant Portfolio landing page with some SVG animations
 >
 > Inspired from **github user**
 
