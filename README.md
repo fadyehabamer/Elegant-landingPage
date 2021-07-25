@@ -6,3 +6,4 @@
 * HTML
 * CSS
   * CSS Animations
+  * NOT responsive
