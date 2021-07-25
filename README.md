@@ -7,3 +7,7 @@
 * CSS
   * CSS Animations
   * NOT responsive
+
+<p align="center">
+  <img src="SSHOT.png">
+ </p>
